@@ -3,7 +3,7 @@ export const latestArticles = [
     headline: 'How to structure your site for success',
     path: '/blog/some-slug-1',
     date: 'July 27, 2021',
-    author: 'Sashe Vuchkov',
+    author: 'Chowdhury Tafsir Ahmed Siddiki',
     category: 'Tips & Tricks',
     excerpt:
       'Success is never guaranteed, but structure your site this way and you have better odds.',
@@ -19,7 +19,7 @@ export const latestArticles = [
     headline: 'Two magic words that make dev and business miracles happen',
     path: '/blog/some-slug-2',
     date: 'June 21, 2021',
-    author: 'Sashe Vuchkov',
+    author: 'Chowdhury Tafsir Ahmed Siddiki',
     category: 'Thoughts',
     excerpt:
       'They bring on the table huge benefits that outweigh by a wide margin the cons of losing some control over the codebase.',
@@ -35,7 +35,7 @@ export const latestArticles = [
       'Why most of the successful tech companies are “doomed” to follow multicultural policies?',
     path: '/blog/some-slug-3',
     date: 'May 21, 2021',
-    author: 'Sashe Vuchkov',
+    author: 'Chowdhury Tafsir Ahmed Siddiki',
     category: 'Thoughts',
     excerpt:
       'Everybody deserves equal opportunity and chance to prove themselves in a competitive environment',
@@ -50,7 +50,7 @@ export const latestArticles = [
     headline: 'A not so fair industry norm',
     path: '/blog/some-slug-4',
     date: 'April 21, 2021',
-    author: 'Sashe Vuchkov',
+    author: 'Chowdhury Tafsir Ahmed Siddiki',
     category: 'Thoughts',
     excerpt: 'Why the code authors get worse deals than the book authors?',
     image: {
@@ -64,7 +64,7 @@ export const latestArticles = [
     headline: '5 best-guarded secrets for a profitable website',
     path: '/blog/some-slug-5',
     date: 'March 21, 2021',
-    author: 'Sashe Vuchkov',
+    author: 'Chowdhury Tafsir Ahmed Siddiki',
     category: 'Tips & Tricks',
     excerpt:
       'Pretty design and lots of cool features - those things are a must, but there are some additional details that will make your site more profitable',
@@ -79,7 +79,7 @@ export const latestArticles = [
     headline: 'How to structure your site for success',
     path: '/blog/some-slug-6',
     date: 'February 21, 2021',
-    author: 'Sashe Vuchkov',
+    author: 'Chowdhury Tafsir Ahmed Siddiki',
     category: 'Tips & Tricks',
     excerpt:
       'Success is never guaranteed, but structure your site this way and you have better odds.',

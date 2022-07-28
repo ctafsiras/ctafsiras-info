@@ -61,7 +61,7 @@ export default function About() {
                 <div className="px-3 py-3">
                   <p>Hello,</p>
                   <p>
-                    My name is Sashe Vuchkov and I&apos;m a web developer with a
+                    My name is Chowdhury Tafsir Ahmed Siddiki and I&apos;m a web developer with a
                     strong interest in direct response marketing.
                   </p>
                   <p>

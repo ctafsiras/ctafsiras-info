@@ -47,7 +47,7 @@ export default function Home() {
                   <Card.Text>Hello,</Card.Text>
 
                   <Card.Text>
-                    My name is Sashe Vuchkov and I&apos;m a web developer with a
+                    My name is Chowdhury Tafsir Ahmed Siddiki and I&apos;m a web developer with a
                     strong interest in direct response marketing.
                   </Card.Text>
 

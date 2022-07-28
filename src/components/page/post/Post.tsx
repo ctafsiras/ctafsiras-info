@@ -48,7 +48,7 @@ export default function Post() {
                 <header className="px-3 my-2">
                   <h1 className="h2">A not so fair industry norm</h1>
                   <span className="text-muted">
-                    June 14, 2020 / by Sashe Vuchkov / 0 Comments
+                    June 14, 2020 / by Chowdhury Tafsir Ahmed Siddiki / 0 Comments
                   </span>
                   <hr />
                 </header>

@@ -94,7 +94,7 @@ export default function SiteNav() {
               renderMenuOnMount
             >
               <Link href="/about">
-                <DropdownItem href="/about">Sashe Vuchkov</DropdownItem>
+                <DropdownItem href="/about">Chowdhury Tafsir Ahmed Siddiki</DropdownItem>
               </Link>
               <DropdownItem href="#">Hire me</DropdownItem>
             </NavDropdown>
